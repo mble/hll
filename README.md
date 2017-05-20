@@ -1,4 +1,5 @@
 # hll
+[![Build Status](https://travis-ci.org/mble/hll.svg?branch=master)](https://travis-ci.org/mble/hll)
 
 Implementation of [HyperLogLog](http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf) in Crystal.
 
