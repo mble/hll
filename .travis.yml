@@ -1,0 +1,4 @@
+sudo: false
+language: crystal
+script:
+  - crystal spec
